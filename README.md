@@ -252,14 +252,6 @@ git push origin feature-name
 
 ---
 
-# 📄 License
-
-This project is licensed under the **MIT License**.
-
-You are free to use, modify, and distribute this project for personal and commercial purposes.
-
----
-
 # 👨‍💻 Author
 
 **Param Shah**
